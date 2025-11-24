@@ -1,0 +1,5 @@
+{
+  "name": "MineReact",
+  "description": "A simplified Minecraft-like game built with React and Three.js, featuring block placement and destruction in a 3D voxel world.",
+  "requestFramePermissions": []
+}
